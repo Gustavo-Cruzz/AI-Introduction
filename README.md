@@ -41,7 +41,7 @@ The set of functions and classes present in this folder refer to I / 0 implement
 - [Atividade 8 - Redes Convolucionais (CIFAR10, CNN, Pooling)](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_08_Explora%C3%A7%C3%A3o_da_CNN.ipynb)
     - [Mini-curso Visão Computacional](https://www.kaggle.com/learn/computer-vision)
 - [Atividade 9 - Redução de dimensionalidade](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_09_Redu%C3%A7%C3%A3o_de_dimensionalidade.ipynb)
-- [Atividade 10 -  GAN (Simples e Deep) - Vinícius](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_10_GAN.ipynb)
+- [Atividade 10 -  GAN (Simples e Deep)](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_10_GAN.ipynb)
 - [Atividade 11 - Redes recorrentes ( RNN simples, LSTM, GRU, CNN1d)](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_11_redes_recorrentes.ipynb)
 
 ### Materiais De Leitura:
