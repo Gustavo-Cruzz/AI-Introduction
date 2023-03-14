@@ -32,7 +32,7 @@ The set of functions and classes present in this folder refer to I / 0 implement
 
 - [Github](https://butecotecnologico.com.br/tutorial-git-e-github/)
 - [Atividade 1 - Pandas, Matplot e Seaborn  (AED, dataset Wine-Quality)](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_01_Explora%C3%A7%C3%A3o_do_dataset_Wine.ipynb)
-- [Atividade 2 - Numpy - Yasmin](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_02_Numpy.ipynb)
+- [Atividade 2 - Numpy](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_02_Numpy.ipynb)
 - [Atividade 3 - Introdução à ML](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_03_Introdu%C3%A7%C3%A3o_a_ML.ipynb)
 - [Atividade 4 - Perceptron na mão](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_04_Exerc%C3%ADcio_perceptron.ipynb)
 - [Atividade 5 - Exercício de classificação com o iris (Overfitting, Underfitting, Dense)](http://200.9.65.23/joseviniciusdantas/capacitacao-vialab/blob/master/notebooks/Atividade_05_Classifica%C3%A7%C3%A3o_do_dataset_iris.ipynb)
